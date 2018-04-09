@@ -1,0 +1,2 @@
+# zmasite
+local django zma
